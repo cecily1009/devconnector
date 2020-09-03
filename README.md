@@ -39,7 +39,7 @@ To see the app in action, go to:[DevConnector Demo](https://dev-connector-web.he
   - [moment](https://momentjs.com/)
   - [React-Router-Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
   - [axios](https://github.com/axios/axios)
-  - [validator] (https://github.com/validatorjs/validator.js)
+  - [validator](https://github.com/validatorjs/validator.js)
 - Back-end
   - [Express](https://expressjs.com/)
   - [MongoDB](https://www.mongodb.com/)
