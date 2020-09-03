@@ -11,8 +11,6 @@ To see the app in action, go to:[DevConnector Demo](https://dev-connector-web.he
 
 ![Image text](Demo_imgs/demo3.png)
 
-![Image text](Demo_imgs/demo4.png)
-
 # Features
 - Authentication:
   - User login with email and password
@@ -52,6 +50,6 @@ To see the app in action, go to:[DevConnector Demo](https://dev-connector-web.he
   - [bcryptjs](https://www.npmjs.com/package/bcryptjs)
   - [gravatar](https://en.gravatar.com/)
   - [normalize-url](https://www.npmjs.com/package/normalize-url)
-  
+
 # Deployment
 - [Heroku](https://heroku.com/)
