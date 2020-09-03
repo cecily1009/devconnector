@@ -24,7 +24,7 @@ const Posts = ({ getPosts, post: { posts, loading } }) => {
       ) : (
         <Fragment>
           <Shake>
-            <h1 className='large text-primary'>Posts</h1>
+            <h1 className='large text-primary'><i class="fas fa-blog"></i> Posts</h1>
             <p className='lead'>
               <i className='fas fa-user'></i> Welcome to the community!
             </p>
