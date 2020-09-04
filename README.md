@@ -34,7 +34,6 @@ To see the app in action, go to:[DevConnector Demo](https://dev-connector-web.he
   - [React](https://github.com/facebook/react)
   - [Redux](https://github.com/reduxjs/redux)
   - [Font Awesome](https://fontawesome.com/)
-  - [Bootstrap](https://getbootstrap.com/)
   - [React-Animations](https://www.npmjs.com/package/react-animations)
   - [moment](https://momentjs.com/)
   - [React-Router-Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
