@@ -16,7 +16,7 @@ To see the app in action, go to:[DevConnector Demo](https://dev-connector-web.he
   - User login with email and password
 - Authorization:
   - One cannot manage posts and user profile without being authenticated
-  - One cannot edit or remove posts, comments created by other users
+  - One cannot remove posts, comments, and change like/unlike action created by other users
 - Manage user portfolio with basic functionalities:
   - Create, edit the basic infomation about user as developer, such as skills, github repos and soicial links
   - Add, modify and delete experiences and educations
