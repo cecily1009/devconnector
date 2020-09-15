@@ -28,7 +28,7 @@ To see the app in action, go to:[DevConnector Demo](https://dev-connector-web.he
 - Used Google Fonts instead default fonts and Font Awesome for icons
 - Used momentJS to show post and comment creation and update timestamp
 - Integrated Gravatar API where users can get default avatar according their email
-- Added funtionality to display user's github repos via provided github username
+- Added funtionality to display user's github repos based on provided github username
 # Built with
 - Front-end
   - [React](https://github.com/facebook/react)
