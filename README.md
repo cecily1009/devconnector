@@ -1,7 +1,7 @@
 # DevConnector
 This is an in-depth full-stack social network application for developers from [the Udemy Course - MERN Stack Front To Back by Brad Traversy](https://www.udemy.com/course/mern-stack-front-to-back/)
 # Live Demo
-To see the app in action, go to:[DevConnector Demo](https://dev-connector-web.herokuapp.com/)
+To see the app in action, go to: [DevConnector Demo](https://dev-connector-web.herokuapp.com/)
 - Login email : guest01@email.com
 - Login password : guest123
 ## Demo Images
